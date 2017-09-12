@@ -3,5 +3,18 @@
   "version": "0.0.0",
   "description": "a License Zero test package for a retracted project",
   "author": "Kyle E. Mitchell <kyle@artlessdevices.com>",
-  "repository": "licensezero/example-retracted-licensezero-package"
+  "repository": "licensezero/example-retracted-licensezero-package",
+  "license": "SEE LICENSE IN LICENSE",
+  "licensezero": [
+    {
+      "license": {
+        "jurisdiction": "US-CA",
+        "name": "Kyle E. Mitchell",
+        "projectID": "c7635411-9d1d-4e3a-89de-d620a0c8de3f",
+        "publicKey": "0374a100b11660b7acb294e9db0cc1c33e5261a537079dd17b4dacbf80cff3c4"
+      },
+      "licensorSignature": "0e2a7c1e4d576fb74f6d78d3c9bc82c7c344057e1fe1b9c8f04b613621beb0d66f654bfb6ea1cbea3db69cb8b0a81bd4751b4aa00037fec03a62fca315436501",
+      "agentSignature": "be018a136491b2c41e0e9c77060fa15142b36ef2fce372ee5d4c12d53c3f442dab55c631c2b82a0464c1b779d8b16bb56751ed4f9b21c612a1528cef92146b0a"
+    }
+  ]
 }
