@@ -1,0 +1,7 @@
+{
+  "name": "example-retracted-licensezero-package",
+  "version": "0.0.0",
+  "description": "a License Zero test package for a retracted project",
+  "author": "Kyle E. Mitchell <kyle@artlessdevices.com>",
+  "repository": "licensezero/example-retracted-licensezero-package"
+}
